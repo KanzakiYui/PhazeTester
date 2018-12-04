@@ -1,2 +1,2 @@
 # PhazeTester
-Test for Phaze Products
+Test for Phaze Staging (Mainly) or Production Version
