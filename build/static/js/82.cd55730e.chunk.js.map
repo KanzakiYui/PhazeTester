@@ -1,0 +1,1 @@
+{"version":3,"sources":["Media/Images/Logos/ganz.png"],"names":["module","exports","__webpack_require__","p"],"mappings":"8EAAAA,EAAAC,QAAiBC,EAAAC,EAAuB","file":"static/js/82.cd55730e.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/ganz.4042b547.png\";"],"sourceRoot":""}
